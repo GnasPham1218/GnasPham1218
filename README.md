@@ -53,5 +53,5 @@ I am a **Software Engineering Graduate** with a passion for architecting scalabl
 ## 🤝 Let's Connect
 
 📫 **Email:** gnasai1218@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/gnasai1218
+🔗 **LinkedIn:** https://www.linkedin.com/in/gnasai1218  
 🔗 **Facebook:** https://www.facebook.com/Gnas1218
