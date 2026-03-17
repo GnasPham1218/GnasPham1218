@@ -67,7 +67,7 @@ Currently based in **Ho Chi Minh City** and actively looking for my first full-t
 ## 🚀 Featured Projects
 
 ### 01 · Organic Food Ecosystem
-> **Role:** Team Leader & Fullstack Developer &nbsp;|&nbsp; **Team Size:** 3 &nbsp;|&nbsp; **Period:** 10/2025 – 12/2025
+> **Role:** Team Leader & Fullstack Developer &nbsp;|&nbsp; **Team Size:** 2 &nbsp;|&nbsp; **Period:** 10/2025 – 12/2025
 
 A comprehensive e-commerce platform for organic food, featuring a React customer web app, a Spring Boot admin dashboard, and a fully-featured Expo/React Native mobile app.
 
