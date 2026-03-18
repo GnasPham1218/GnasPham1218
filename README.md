@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sang — Pham Gnas</h1>
+<h1 align="center">Hi 👋, I'm Pham Thanh Phuoc Sang — Gnas Pham</h1>
 
 <p align="center">
   <strong>Software Engineering Graduate</strong>
@@ -117,7 +117,6 @@ A complete IoT ecosystem for automated fish feeding, featuring an ESP32-powered 
 
 | | |
 |---|---|
-| 🗂️ Projects Shipped | **4+** |
 | 🧰 Technologies Used | **11** |
 | 🏗️ Stack | **Fullstack** |
 | 🎓 Graduated | **2026** |
